@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Care Tones</string>
+    <string name="title_Agenda">Agenda</string>
+    <string name="botao">Ver mais</string>
+    <string name="affirmation1"> - Doutor(a): Julio dos Santos Paes\n\n - Procedimento: Peeling Químico \n\n - Data: 01/11/24 \n\n - Horário: 14h ás 15h </string>
+    <string name="affirmation2"> - Doutor(a): Amanda Cristina Ferreira\n\n - Procedimento: Massagem Corporal \n\n - Data: 05/11/24 \n\n - Horário: 09h ás 9h30 </string>
+    <string name="affirmation3"> - Doutor(a): Isabele Juliana das oliveiras\n\n - Procedimento: Laser \n\n - Data: 14/11/24 \n\n - Horário: 14h ás 15h </string>
+    <string name="ver">Ver Agenda</string>
+    <string name="title_consulta">Consulta</string>
+    <string name="textin">n sei que isso</string>
+    <string name="botaoVoltar">Voltar</string>
+    <string name="BotaoLogin">Fazer Login\n</string>
+    <string name="texto_consulta">"Consulta marcada com o esteticista: Julio dos Santos Paes.
+ No procedimento de Peeling Quimico.
+ Motivo: insatisfações pessoais do cliente.\n
+ O procedimento será feito em 1h a partir das 14h às 15h, paciente continuará sendo acompanhado remotamente,e tendo tratamentos necessarios"</string>
+
+</resources>
